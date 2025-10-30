@@ -1,0 +1,4 @@
+experiment logs
+- the same as previous work (only encoder and a dense layer)
+- encoders with relu activation
+- 2 layers 

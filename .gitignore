@@ -1,0 +1,15 @@
+venv/
+data/
+report/
+models/
+models_prev/
+report/data_dist/*
+report/data_stats/*
+eda_output/
+logs/
+exp/
+#!exp/*.txt
+#!exp/*/
+train/*
+src/*
+Simba/*
